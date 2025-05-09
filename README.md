@@ -56,8 +56,8 @@ Included locally as: **`WhiteWineQuality.csv`**
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Premchand154/ML_Prediction_model.git
+cd ML_Prediction_model
 ```
 
 (Replace `your-username` and `your-repository-name` with your actual GitHub username and repository name.)
